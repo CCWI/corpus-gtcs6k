@@ -139,7 +139,7 @@ Formatted Publication Name
  ```
 
 ## How to use the data set?
-The [repository to this page](https://ccwi.github.com/corpus-gtcs6k) provides the data set to the corpus along with the experiments and instructions for use.
+The [repository to this page](https://github.com/ccwi/corpus-gtcs6k) provides the data set to the corpus along with the experiments and instructions for use.
 
 ## About
 The presented corpus was developed during a joint project between the <a href="https://www.wirtschaftsinformatik-muenchen.de/">Competence Center Wirtschaftsinformation (CCWI)</a> at the Munich University of Applied Sciences and the agency <a href="https://www.althallercommunication.de/">ALTHALLER communication GbR</a>.
