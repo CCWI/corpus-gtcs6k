@@ -1,0 +1,4 @@
+theme: jekyll-theme-primer
+# theme: jekyll-theme-slate
+title: Corpus on German topic classification and success (GTCS6k)
+description: A corpus of 6000 annotated german social media posts from six brand pages on Facebook
