@@ -111,12 +111,12 @@ After completion of the training phases, a further 6,000 posts were annotated, w
     <th align="left">Percent</th>
   </tr>
   <tr>
-    <td align="left">successful</td>
+    <td align="left">Not successful</td>
     <td align="right">4578</td>
     <td align="right">76.3 %</td>
   </tr>
   <tr>
-    <td align="left">not successful</td>
+    <td align="left">Successful</td>
     <td align="right">1422</td>
     <td align="right">23.7 %</td>
   </tr>
@@ -142,7 +142,7 @@ Formatted Publication Name
 The [repository to this page](https://github.com/ccwi/corpus-gtcs6k) provides the data set to the corpus along with the experiments and instructions for use.
 
 ## About
-The presented corpus was developed during a joint project between the <a href="https://www.wirtschaftsinformatik-muenchen.de/">Competence Center Wirtschaftsinformation (CCWI)</a> at the Munich University of Applied Sciences and the agency <a href="https://www.althallercommunication.de/">ALTHALLER communication GbR</a>.
+The presented corpus was developed during a joint project between the <a href="https://www.wirtschaftsinformatik-muenchen.de/">Competence Center Wirtschaftsinformatik (CCWI)</a> at the Munich University of Applied Sciences and the agency <a href="https://www.althallercommunication.de/">ALTHALLER communication GbR</a>.
 
 <a href="https://www.wirtschaftsinformatik-muenchen.de/"><img src="images/logo-ccwi.png" height="50px"></a>    <a href="https://www.althallercommunication.de/"><img src="images/logo-communication.png" height="50px"></a>
 
