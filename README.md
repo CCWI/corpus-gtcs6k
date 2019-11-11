@@ -129,13 +129,24 @@ The corpus is provided under the terms of the [Creative Commons Attribution-NonC
 ![license](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
 ## Citation
-If you are using the corpus, please cite the following publication:
-> CONFERENCE<br>
-> Proceedings<br>
+The corpus was first presented at [FRUCT' 25](https://fruct.org/conference25).
+> *Max-Emanuel Keller, Johannes Forster, Peter Mandl, Frederic Aich, Jacqueline Althaller<br>
+> **A German Corpus on Topic Classification and Success of Social Media Posts**<br>
+> Proceedings of the 25th Conference of Open Innovations Association FRUCT<br>
+> Helsinki, Finland, November 2019<br>*
 
-Reference in BibTeX format:
+If you are using the corpus, please cite the following publication. You can find a copy of the [paper here](https://fruct.org/publications/abstract25/files/Kel.pdf). Reference in BibTeX format:
  ```
-Formatted Publication Name
+@inproceedings{Keller.2019,
+ author = {Keller, Max-Emanuel and Forster, Johannes and Mandl, Peter and Aich, Frederic and Althaller, Jacqueline},
+ title = {A German Corpus on Topic Classification and Success of Social Media Posts},
+ booktitle = {Proceedings of the 25th Conference of Open Innovations Association FRUCT},
+ series = {FRUCT'25},
+ year = {2019},
+ location = {Helsinki, Finland},
+ publisher = {FRUCT Oy},
+ address = {Helsinki, Finland},
+}
  ```
 
 ## How to use the data set?
