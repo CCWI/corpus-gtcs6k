@@ -135,7 +135,7 @@ The corpus was first presented at [FRUCT' 25](https://fruct.org/conference25).
 > Proceedings of the 25th Conference of Open Innovations Association FRUCT<br>
 > Helsinki, Finland, November 2019<br>*
 
-If you are using the corpus, please cite the following publication. You can find a copy of the [paper here](https://fruct.org/publications/abstract25/files/Kel.pdf). Reference in BibTeX format:
+If you are using the corpus, please cite the following publication. You can find a copy of the [paper here](https://fruct.org/publications/volume-25/acm25/files/Kel.pdf). Reference in BibTeX format:
  ```
 @inproceedings{Keller.2019,
  author = {Keller, Max-Emanuel and Forster, Johannes and Mandl, Peter and Aich, Frederic and Althaller, Jacqueline},
